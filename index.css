@@ -1,0 +1,12 @@
+
+.form-inline .form-group {
+    margin-right: 1em;
+}
+
+.row.form-horizontal label {
+    padding-right: 0;
+}
+
+.iws-priority {
+    font-weight: bold;
+}
