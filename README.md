@@ -2,6 +2,12 @@
 
 This is a simple web application that demonstrates my knowledge of web application design and ability to apply modern JavaScript and UI libraries to solving a problem. I am currently seeking  employment as a full-stack web application developer and BriteCore proposed this [demo project](https://github.com/IntuitiveWebSolutions/EngineeringMidLevel) for their candidates.
 
+## Running
+
+Just open **index.html** with your browser. 
+
+*In the future, I may deploy the app to Amazon Web Services if potential employers are interested in seeing some server-side code and a deployment demonstration.*
+
 # Commentary
 
 ## Technologies
